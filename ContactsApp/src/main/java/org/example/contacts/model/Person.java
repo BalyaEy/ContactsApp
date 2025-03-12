@@ -27,6 +27,7 @@ public class Person {
                 ", phone='" + number + '\'' +
                 ", email='" + email + '\'' +
                 '}';
+
     }
 }
 
